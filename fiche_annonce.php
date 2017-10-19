@@ -80,6 +80,22 @@ require_once('inc/header.inc.php');
 		</script>
 </div>
 <div>
+<h2>Autres annonces</h2>
+<hr>
+	<div class = "autrannonce">
+		<img src="photos/<?= ?>.jpg" alt="">
+	</div>
+	<div class= "autrannonce">
+		<img src="photos/<?= ?>.jpg" alt="">
+	</div>
+	<div class = "autrannonce">
+		<img src="photos/<?= ?>.jpg" alt="">
+	</div>
+	<div class ="autrannonce">
+		<img src="photos/<?= ?>.jpg" alt="">
+	</div>
+</div>
+<div>
 <p><a href="formulaire_de_commentaire.php">déposer un commentaire ou une note</a></p>
 
 <p><a href="annonces.php">retourner vers les annonces</a></p>
